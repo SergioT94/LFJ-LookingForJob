@@ -6,7 +6,7 @@
 
 This was the third and final group project for the University of Arizona Coding Bootcamp.
 
-View Here: https://secure-sierra-78095.herokuapp.com/
+View Here: 
 
 ## Solution
 
